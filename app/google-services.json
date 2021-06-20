@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171461669432",
+    "project_id": "models-bde75",
+    "storage_bucket": "models-bde75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171461669432:android:48c173f30d06c6f964eccd",
+        "android_client_info": {
+          "package_name": "com.example.geofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171461669432-6dcp0dkn71h0f5hi95vnfub4st3k3m19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnpg6ajWqbg8F_gMc7dWbnbpV1YLs7oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171461669432-6dcp0dkn71h0f5hi95vnfub4st3k3m19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
